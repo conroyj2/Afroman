@@ -10,9 +10,7 @@ Instructions to play immediately:
 =================================
 
 - Download and unzip the Afroman_binaries folder from Dropbox
-
 	- https://www.dropbox.com/sh/s9vs9973dvi9fcd/AACaXezfk7SArNV8YC1mdlEma?dl=0
-
 - Open the Afroman application in the folder
 - Rock on!
 
@@ -20,9 +18,8 @@ Requirements:
 
 - Windows 7+
 
-*** The game may lag if your screen refresh rate is not set to 60 Hertz
-
-*** It is also recommended that you use a discreet graphics card if possible
+*** The game may lag if your screen refresh rate is not set to 60 Hertz.
+*** It is also recommended that you use a discreet graphics card if possible.
 
 Instructions to compile the source code:
 ========================================
