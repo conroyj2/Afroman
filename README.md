@@ -4,7 +4,7 @@ Afroman
 Afroman is a sidescroller, music rhythm game, and maze all in one exciting race against the clock.
 This game was made using the Cocos2d-x SDK
 
-Created by Jared Conroy
+Created by Jared Conroy (https://www.linkedin.com/in/jaredconroy)
 
 Instructions to play immediately:
 =================================
