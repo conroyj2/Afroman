@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="300" height="16" tilewidth="40" tileheight="40">
+ <tileset firstgid="1" name="tileSet-HD" tilewidth="40" tileheight="40">
+  <image source="level 2 tileset.png" width="160" height="81"/>
+ </tileset>
+ <layer name="bass" width="300" height="16">
+  <data encoding="base64" compression="zlib">
+   eJzt0kEKACAIAEH9/6d7QSCYRTBz6rAaRBEAAAAAAAAAAAAAAAAAAAAA/CgH+tycT+2f7Kfv73r9Pt2+MjuxU1/vb/9pgI4F5uAAGA==
+  </data>
+ </layer>
+ <layer name="tom3" width="300" height="16">
+  <data encoding="base64" compression="zlib">
+   eJztxqEBAAAIA6Al/z/ZC1YtQiIBAAAAAAAAAAAAAAAAAD6YcgAAAAC4tirXAA0=
+  </data>
+ </layer>
+ <layer name="tom2" width="300" height="16">
+  <data encoding="base64" compression="zlib">
+   eJztyrEJAAAIA7Bu/v+xTxRESOYkAAAAAAAAAAAAAADwy5QOAAAAAAAAcGMB0WsADw==
+  </data>
+ </layer>
+ <layer name="tom1" width="300" height="16">
+  <data encoding="base64" compression="zlib">
+   eJztyrEJAAAIA7CO/n+xTxRBSOYkAAAAAAAAAAAAXJrSAQAAAAAAAAAA+GoBnn4AEQ==
+  </data>
+ </layer>
+ <layer name="snare" width="300" height="16">
+  <data encoding="base64" compression="zlib">
+   eJzt0rEJADAIRUHB/XfOBAEhzZfcVRbPRqwCAAAAAAAAmOuHZrL7W9+XOUHCfRJ6/5zZAwAAAAAAAAAAALDbAVGbAEw=
+  </data>
+ </layer>
+ <layer name="hihat" width="300" height="16">
+  <data encoding="base64" compression="zlib">
+   eJzt0CEOAAAIAzEM//8yEoUn0Mqp5SIAAAAAgEnaT/vWedv/b/0BAAAAAAAAAAAAAACAVrJ8AIg=
+  </data>
+ </layer>
+ <layer name="cymbal" width="300" height="16">
+  <data encoding="base64" compression="zlib">
+   eJzt0sEJACAMA8A+3H9mR1BBaYt371BCaAQAAC+M7AKfu7X/6Z3d/CpX/X/0z9W9PwAAAAAAAAAAAAAAAAAAwAQZNAAx
+  </data>
+ </layer>
+</map>

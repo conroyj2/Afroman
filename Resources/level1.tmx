@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="500" height="50" tilewidth="16" tileheight="16" backgroundcolor="#0055ff">
+ <tileset firstgid="1" name="tileSet-HD" tilewidth="16" tileheight="16" margin="1">
+  <image source="tileSet.png" width="278" height="752"/>
+ </tileset>
+ <layer name="walls" width="500" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt3UduFFEUheFqDJgMAkQGgcg5iEkvgQ1ASyyAnEbkPCBn2AppA6QNkCakAWlCGpDEaQlLJQbQbar7Vp33f9IvZMmW6/W77it7wtosy9a2UT0DAACdVs/a27nt7HL2OQAA3cE+BwCg+tjnAABUH/scAIDqY58DAFB97HMAAKqPfQ4AQPWxzwEAqD72OQAA1cc+R7cMVr1qiBqqhqnhakTkQ6GUNgzIso1qk9qstqitapvabvDxDrVT7RoQ/UrDCfsc3TBBTVST1GQ1RU1V09R0NSPu0VAyu7Xj9qi9ap/arw6og+qQOmzw8RF1VB1Tx9npKAj7HJ02T81XC9RCtUgtVkvUUrVMLVcrOvgMzTm8rm6om+qWup0xn2VzQrvtpDqlTqsz6qw6p86rC+qiwceX1GV1RV1V19jpKAD7HEVbXUCj1ZgCn6k5h3fUXXVP3VcPMuYzWrvvJyn0rJZlz2v/9bIiUexzFK2IfT5TzSrwmZpz+FA9Uo/VE/U0Yz6jRe/OMvZBu/wj+xz9wD5H0Zp33reXm29LzT8l9mT/3uH5z12pVhX8TK/VG/VWvVPvM+YzWvP173uveKEBeKle1eJ3arfLn71HPwQD+fs7+oF9jqLVc41V49T4Fr4u/7ntzmUrz/RVfVPf1Q/1s+DvgfblZ+WTdtln9SXB303zZy969pEO9jmKln+Pnq3mqLktfF3+czuxz4frvXKEGqlGqdE15jNaflYG6XfSwao3wd9N82dnn6O/2p2d9ZREa0pcI/u7RgmekdeFqHp162co+v2d0ir65+pvtSL6GXldiKpXK4r4PtHv732h+/jbGyIxf3DmON+OZ3LB3SAS8wdnjvPteCYX3A0iMX9w5jjfjmdywd0gEvMHZ47z7XgmF9wNIjF/cOY4345ncsHdIBLzB2eO8+14JhfcDSIxf3DmON+OZ3LB3SBC/Y9/AUeO8+14JhfcDSKwz5ECx/l2PJML7gYR2OdIgeN8O57JBXeDCPn/KwVw5Tjfjmdywd0gAvscKXCcb8czueBuEIF9jhQ4zrfjmVxwN4jAPkcKHOfb8UwuuBtEYJ8jBY7z7XgmF9wNIrDPkQLH+XY8kwvuBhHY50iB43w7nskFd4Mo7HO4c5xvxzO54G4Qgd/P4c51vh3P5IK7QQT2Ody5zrfjmVxwN4jAPoc71/l2PJML7gYR2Odw5zrfjmdywd0gAvscKXCc71bPtI4oKHQX+xwpcJxv9jmVtcbvf9Fd7HOkwHG+2edUxhoZ+zwK+xwpcJxv9jmVMfZ5HPY5UuA43+xzKmPs8zjsc6TAcb5bPdOQGhEREVW9oURERFT5fgFomKe+
+  </data>
+ </layer>
+ <layer name="hazards" width="500" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt0wEJAEAIBEFTCfYv9nwH4UBmYCNsFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF9rJQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICUUTy4Kv2WdwEAAIAHho0zXg==
+  </data>
+ </layer>
+ <layer name="sewer" width="500" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt0zENAAAIA0Fc4t8JIxsDjNwlb6BJIwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoOXQZ3aBGx8CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADYK7w2ByQ=
+  </data>
+ </layer>
+ <layer name="ladder" width="500" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt00EJAEAMA8Haqn9jtXBwjwY6o2AJpAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbujtgFB2gT/JH0puAwAAAN4NyYMA5Q==
+  </data>
+ </layer>
+</map>
