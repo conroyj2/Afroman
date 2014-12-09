@@ -5,7 +5,6 @@ Afroman is a sidescroller, music rhythm game, and maze all in one exciting race 
 This game was made using the Cocos2d-x SDK
 
 Created by Jared Conroy
-
 =======================================================================================
 
 Instructions to play immediately:
@@ -23,7 +22,6 @@ Requirements:
 
 *** The game may lag if your screen refresh rate is not set to 60 Hertz
 *** It is also recommended that you use a discreet graphics card if possible
-
 =======================================================================================
 
 Instructions to compile the source code:
