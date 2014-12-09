@@ -18,8 +18,8 @@ Requirements:
 
 - Windows 7+
 
-*** The game may lag if your screen refresh rate is not set to 60 Hertz. *** 
-*** It is also recommended that you use a discreet graphics card if possible. ***
+** The game may lag if your screen refresh rate is not set to 60 Hertz
+** It is also recommended that you use a discreet graphics card if possible
 
 Instructions to compile the source code:
 ========================================
