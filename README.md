@@ -9,8 +9,7 @@ Created by Jared Conroy (https://www.linkedin.com/in/jaredconroy)
 Instructions to play immediately:
 =================================
 
-- Download and unzip the Afroman_binaries folder from Dropbox
-	- https://www.dropbox.com/sh/s9vs9973dvi9fcd/AACaXezfk7SArNV8YC1mdlEma?dl=0
+- Download and unzip the Afroman_binaries folder
 - Open the Afroman application in the folder
 - Rock on!
 
