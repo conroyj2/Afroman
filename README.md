@@ -24,10 +24,10 @@ Requirements:
 Instructions to compile the source code:
 ========================================
 
-- Download the entire Afroman folder off of Git Hub
+- Download the entire Afroman folder off of GitHub
 - Download the Afroman_cocos2d folder from Dropbox
 	- https://www.dropbox.com/sh/s9vs9973dvi9fcd/AACaXezfk7SArNV8YC1mdlEma?dl=0
-- Unzip the folder into the Afroman folder
+- Unzip the Afroman_cocos2d folder into the main Afroman folder
 - Open the Afroman Microsoft Visual Studio Solution in the proj.win32 folder
 - Compile and run
 
